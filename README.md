@@ -1,2 +1,2 @@
-# abc2midi
-A python module for converting .abc files to .midi
+# abcmusic
+A python module for doing stuff with .abc files
